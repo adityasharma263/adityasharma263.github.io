@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.mattfarley.ca	TRUE	/	FALSE	1999999999	__cfduid	d79f93b9ef2a2dd0cc7844805f80c8bce1518103154
+
